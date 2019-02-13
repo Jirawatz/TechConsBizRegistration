@@ -1,0 +1,15 @@
+{
+  "short_name": "Registration",
+  "name": "Registration for an Free Trial",
+  "icons": [
+    {
+      "src": "favicon.ico.png",
+      "sizes": "65x65 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
